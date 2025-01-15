@@ -10,14 +10,7 @@ A Rust library for automating WhatsApp Web interactions. This library provides a
 - 🔍 Search and interact with chats
 - 📱 Support for both personal and business accounts
 
-## Installation
 
-Add this to your `Cargo.toml`:
-
-```toml
-[dependencies]
-whatsapp-rs = "0.1.0"
-```
 
 ## Quick Start
 
